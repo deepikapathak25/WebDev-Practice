@@ -1,0 +1,79 @@
+.card{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    margin-bottom: 0;
+    border-radius: 5px;
+}
+.desc{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+img{
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#monica-content-root{
+    opacity: 0;
+}
