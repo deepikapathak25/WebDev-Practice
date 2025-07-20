@@ -17,7 +17,7 @@ const para = document.querySelector(".text");
 para.innerHTML = "<strong>This is now bold text!</strong>";
 
 const btn = document.getElementById("btn");
-btn.style.backgroundColor = "purple";
+btn.style.backgroundColor = "pink";
 btn.style.color = "black";
 btn.style.padding = "10px 20px";
 
